@@ -1,0 +1,3 @@
+[submodule "frontend/github-random-repo"]
+	path = frontend/github-random-repo
+	url = https://github.com/christiantochen/github-random-repo
